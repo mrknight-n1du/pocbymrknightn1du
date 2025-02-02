@@ -1,1 +1,10 @@
-url	"https://pocbymrknightn1du/text.yaml"
+{
+    "url": "https://mrknight-n1du.github.io/pocbymrknightnidu/pocbyn1du.yaml",
+    "urls": [{
+        "url": "https://mrknight-n1du.github.io/pocbymrknightn1du/pocbynidu.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://mrknight-n1du.github.io/pocbymrknightn1du/pocbynidu.yaml",
+        "name": "Foo2"
+    }]
+}
